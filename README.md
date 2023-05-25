@@ -1,2 +1,0 @@
-# mystery_island
-Game 
